@@ -1,0 +1,31 @@
+.text {
+    margin-top: 2em;
+    font-size: 1.2em;
+}
+
+img {
+    margin-top: 1em;
+    border:double 5px;
+    border-color: rgb(3, 3, 3);
+    max-width: 100%;
+    height: auto;
+    size: 2em;
+}
+
+* {
+    font-family: 'Akaya Telivigala', cursiva;
+}
+
+#saludo {
+    font-size: 92px;
+    color: blue;
+}
+
+body {
+    background-color: rgb(196, 218, 247);
+}
+
+
+
+
+
